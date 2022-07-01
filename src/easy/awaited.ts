@@ -23,3 +23,5 @@ type Baz = MyAwaited<Z>;
 const a: Foo = "I am a string";
 const b: Bar = { field: 1 };
 const c: Baz = 1;
+
+export {};
